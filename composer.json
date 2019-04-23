@@ -1,11 +1,11 @@
 {
   "name": "fournet/imagedb-bundle",
   "type": "contao-bundle",
-  "description": "Contao 4 bundle for the Image-DB",
+  "description": "Contao 4 Bundle",
   "license": "proprietary",
   "authors": [
     {
-      "name": "Janosch Oltmanns"
+      "name": "4Net"
     }
   ],
   "require": {
